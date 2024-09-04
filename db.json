@@ -1,0 +1,24 @@
+{
+  "customer": [
+    {
+      "id": "9a18",
+      "name": "Piyush",
+      "phone": "9599577674",
+      "address": "Ballabgarh",
+      "cardnumber": "44594530171067010",
+      "cardvalidatemonth": "24",
+      "cardvalidateyear": "2024",
+      "": "123"
+    },
+    {
+      "id": "b4e9",
+      "name": "piyush",
+      "phone": "9560095435",
+      "address": "chattarpur delhi",
+      "cardnumber": "o3u4809123780947123890741",
+      "cardvalidatemonth": "21341324",
+      "cardvalidateyear": "12341324",
+      "cvv": "13241324123"
+    }
+  ]
+}
